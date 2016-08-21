@@ -1,7 +1,6 @@
 4
 |||
-Welcome to ProSeries Builds, brought to by the Dark Wizard. Now get update notifications.
-New: DNAtv Pro! Bringing more live streaming tv options. Fresh Start option if you choose a clean install. 
-Instructions: programs-Dark Wizard-install ProSeries. When complete, force stop Kodi and reboot. 
-For a clean Install: programs-fresh start. Exit Kodi. Launch Kodi. System-addons-install from zip-external-download. Locate ProSeries1.0.1. Programs-program addons-ProSeries. When complete, force stop Kodi then launch. 
+Welcome to ProSeries Builds
+UPDATED. LIVE MIX, SKY MOVIES. 
+GO TO PROGRAMS->DARK WIZARD->and Install. WHEN COMPLETE, FORCE STOP KODI OR UNPLUG DEVICE. 
 Enjoy!
