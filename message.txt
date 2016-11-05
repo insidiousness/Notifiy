@@ -1,6 +1,7 @@
-2
+3
 |||
 Welcome to ProSeries Builds
 UPDATE PENDING....
+Modded Extended Info addon
 
 ##TEST 1 ##   ##TEST 2 ##  ##TEST 3 ##
