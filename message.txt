@@ -1,8 +1,11 @@
-2
+3
 |||
 Welcome to ProSeries Builds
-UPDATE PENDING....
-Modded Extended Info addon
-Update: version 1.0.1.1
 
-##TEST 3 ##   ##TEST 2 ##  ##TEST 1... ##
+The Skunk Works Project is now active in the server
+
+Run Dark Wizard, proseries and it will update. Beta 1
+
+This will overwrite your favorites list, but will
+keep your current addons. 
+ 
