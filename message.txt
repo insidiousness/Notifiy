@@ -1,10 +1,11 @@
-3
+4
 |||
 Welcome to ProSeries Builds
 
 The Skunk Works Project is now active in the server
 
 Run Dark Wizard, proseries and it will update. Beta 1
+Update successful if you see the skunk works logo. 
 
 This will overwrite your favorites list, but will
 keep your current addons. 
