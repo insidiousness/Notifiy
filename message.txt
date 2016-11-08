@@ -1,8 +1,13 @@
-4
+5
 |||
 Welcome to ProSeries Builds
 
 The Skunk Works Project is now active in the server
+UPDATE: 11/7/16 Skunk Works and ProSeries1.0.1
+This fixes Premium tv shows not pointing to the correct tv shows
+fixes family/kids channels not pointing to the correct tv shows
+
+whats new: auto play experimental. 
 
 Run Dark Wizard, proseries and it will update. Beta 1
 Update successful if you see the skunk works logo. 
