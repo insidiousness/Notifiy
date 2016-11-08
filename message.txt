@@ -1,4 +1,4 @@
-5
+6
 |||
 Welcome to ProSeries Builds
 
@@ -12,6 +12,5 @@ whats new: auto play experimental.
 Run Dark Wizard, proseries and it will update. Beta 1
 Update successful if you see the skunk works logo. 
 
-This will overwrite your favorites list, but will
-keep your current addons. 
+This will overwrite your favorites list, but will keep your current addons. 
  
