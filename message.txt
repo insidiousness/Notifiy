@@ -1,16 +1,11 @@
 7
 |||
-Welcome to ProSeries Builds
+Welcome to ProSeries Builds: Major skin update 11/12/2016
 
-The Skunk Works Project is now active in the server
-UPDATE: 11/7/16 Skunk Works 1.0.1.1 and ProSeries1.0.1
-This fixes Premium tv shows not pointing to the correct tv shows
-fixes family/kids channels not pointing to the correct tv shows
-
-whats new: auto play experimental. 
-
-Run Dark Wizard, proseries and it will update. Beta 1
-Update successful if you see the skunk works logo... 
-
+Fix extra fanart flashing
+Fix infoline weird behaviour on home
+Add zoom effect for netflix-style view
+Fix showcase view
+Fix youtube addon Unknown kind '' error 
 This will overwrite your favorites list, but will keep your current addons. 
  
