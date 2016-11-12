@@ -1,4 +1,4 @@
-8
+9
 |||
 Welcome to ProSeries Builds: Major skin update 11/12/2016
 
@@ -9,7 +9,7 @@ Add zoom effect for netflix-style view
 Fix showcase view
 Various other skin bug fixes
 Fix youtube addon Unknown kind '' error
-Android 6.0 Marshmellow UI sound. 
+Android 6.0 Marshmellow UI sound... 
 
 This will overwrite your favorites list, but will keep your current addons. 
  
