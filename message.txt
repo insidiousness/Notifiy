@@ -2,10 +2,14 @@
 |||
 Welcome to ProSeries Builds: Major skin update 11/12/2016
 
+Skunk Works ver. 1.0.1.2 and Proseries1.0.1
 Fix extra fanart flashing
 Fix infoline weird behaviour on home
 Add zoom effect for netflix-style view
 Fix showcase view
-Fix youtube addon Unknown kind '' error 
+Various other skin bug fixes
+Fix youtube addon Unknown kind '' error
+Android 6.0 Marshmellow UI sound. 
+
 This will overwrite your favorites list, but will keep your current addons. 
  
