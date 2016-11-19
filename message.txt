@@ -1,8 +1,8 @@
-11
+9
 |||
 Welcome to ProSeries Builds: Major skin update 11/18/2016
 
-SPECTO CURRENTLY NO STREAMS AVAILABLE. PLEASE USE EXODUS. FIX IS CURRENTLY BEING WORKED ON. 
+SPECTO CURRENTLY NO STREAMS AVAILABLE. PLEASE USE EXODUS. FIX IS CURRENTLY BEING WORKED ON... 
 
 Skunk Works ver. 1.0.1.2 and Proseries1.0.1
 Fix extra fanart flashing / Fix infoline weird behaviour on home / Fix showcase view
