@@ -1,11 +1,12 @@
-9
+10
 |||
-Welcome to ProSeries Builds: Major skin update 11/18/2016
+Welcome to ProSeries Builds:  
+                  PLEASE READ  11/18/2016
 
-SPECTO CURRENTLY NO STREAMS AVAILABLE. PLEASE USE EXODUS. FIX IS CURRENTLY BEING WORKED ON... 
+SPECTO CURRENTLY NO STREAMS AVAILABLE. PLEASE USE EXODUS. FIX IS CURRENTLY BEING WORKED ON...THANK YOU FOR YOUR PATIENCE. 
 
 Skunk Works ver. 1.0.1.2 and Proseries1.0.1
-Fix extra fanart flashing / Fix infoline weird behaviour on home / Fix showcase view
+MAJOR SKIN UPDATE. Fix extra fanart flashing / Fix infoline weird behaviour on home / Fix showcase view
 Add zoom effect for netflix-style viewVarious other skin bug fixes
 Fix youtube addon Unknown kind '' error / Android 6.0 Marshmellow UI sound... 
 
