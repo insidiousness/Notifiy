@@ -1,4 +1,4 @@
-8
+10
 |||
 Welcome to ProSeries Builds:  
                   PLEASE READ  11/18/2016
@@ -8,7 +8,7 @@ SPECTO CURRENTLY NO STREAMS AVAILABLE. APPEARS TO BE AFFECTING PC ONLY. PLEASE U
 Skunk Works ver. 1.0.1.2 and Proseries1.0.1
 MAJOR SKIN UPDATE. Fix extra fanart flashing / Fix infoline weird behaviour on home / Fix showcase view
 Add zoom effect for netflix-style viewVarious other skin bug fixes
-Fix youtube addon Unknown kind error / Android 6.0 Marshmellow UI sound... 
+Fix youtube addon Unknown kind error / Android 6.0 Marshmellow UI sound. 
 
 This will overwrite your favorites list, but will keep your current addons. 
  
