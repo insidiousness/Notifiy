@@ -1,10 +1,10 @@
-13
+14
 |||
 Welcome to ProSeries Builds:  
-                  PLEASE READ  11/20/2016
-
-SPECTO NO LINKS FOUND...**RESOLVED**...THANK YOU FOR YOUR PATIENCE. 
-
+                 12/5/2016
+       
+       ##TEST##  ##TEST##  ##TEST##
+       
 Skunk Works ver. 1.0.1.2 and Proseries1.0.1
 MAJOR SKIN UPDATE. Fix extra fanart flashing / Fix infoline weird behaviour on home / Fix showcase view
 Add zoom effect for netflix-style viewVarious other skin bug fixes
