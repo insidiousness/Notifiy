@@ -1,14 +1,13 @@
-14
+15
 |||
 Welcome to ProSeries Builds:  
-                 12/5/2016
+                 12/11/2016
        
-       ##TEST##  ##TEST##  ##TEST##
-       
-Skunk Works ver. 1.0.1.2 and Proseries1.0.1
-MAJOR SKIN UPDATE. Fix extra fanart flashing / Fix infoline weird behaviour on home / Fix showcase view
-Add zoom effect for netflix-style viewVarious other skin bug fixes
-Fix youtube addon Unknown kind error / Android 6.0 Marshmellow UI sound. 
+      COMING SOON! WINDOWS 10 KODI (FROM THE ASHES)
+      Minor updates to, Skunk Works ver. 1.0.1.2
+      Video on how to update builds. ONE CLICK UPDATES!
 
-This will overwrite your favorites list, but will keep your current addons. 
+ 
+
+ 
  
