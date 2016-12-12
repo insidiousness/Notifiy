@@ -1,4 +1,4 @@
-9
+10
 |||
 Welcome to ProSeries Builds:  
                12/11/2016
@@ -8,7 +8,7 @@ Welcome to ProSeries Builds:
       Video on how to update builds. ONE CLICK UPDATES!
 
       For Win10Kodi, beta testers welcome. 
-      Send email to: ddwmsmn@gmail.com
+      Send email to:   ddwmsmn@gmail.com
  
 
  
