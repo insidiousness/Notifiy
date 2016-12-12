@@ -1,4 +1,4 @@
-16
+17
 |||
 Welcome to ProSeries Builds:  
                  12/11/2016
@@ -7,7 +7,7 @@ Welcome to ProSeries Builds:
       Minor updates to, Skunk Works ver. 1.0.1.2
       Video on how to update builds. ONE CLICK UPDATES!
 
-      Fro Win10Kodi, beta testers welcome. 
+      For Win10Kodi, beta testers welcome. 
       Send email to: ddwmsmn@gmail.com
  
 
