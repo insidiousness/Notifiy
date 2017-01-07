@@ -1,15 +1,14 @@
-10
+11
 |||
-Welcome to ProSeries Builds:  
-               12/11/2016
+     Welcome to ProSeries Builds:  Happy New Year
+                  1/6/2017
        
-      COMING SOON! WINDOWS 10 KODI (FROM THE ASHES)
-      Minor updates to, Skunk Works ver. 1.0.1.2
-      Video on how to update builds. ONE CLICK UPDATES!
-
-      For Win10Kodi, beta testers welcome. 
-      Send email to:   ddwmsmn@gmail.com
- 
+      Extended Info mod addon is broken. 
+      Currently working on an older version of build to roll back the addon to when it was working.
+      Then I will work on a patch to permanently fix. 
+      
+      Report bugs/feedback to:   ddwmsmn@gmail.com
+      
 
  
  
