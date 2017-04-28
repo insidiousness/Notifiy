@@ -1,11 +1,9 @@
-12
+13
 |||
-     Welcome to ProSeries Builds:  Happy New Year
-                  1/6/2017
+                                      Argonon version 1.0   4/27/2017
+      
+                                         #TEST#   #TEST#  #TEST#
        
-      Extended Info mod addon is broken. 
-      Currently working on an older version of build to roll back the addon to when 
-      it was working. Then I will work on a patch to permanently fix. 
       
       Report bugs/feedback to:   ddwmsmn@gmail.com
       
